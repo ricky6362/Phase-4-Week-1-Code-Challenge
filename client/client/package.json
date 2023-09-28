@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "phase-4-rails-api-code-challenge-superheroes-client": "file:.."
+  }
+}
